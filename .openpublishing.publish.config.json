@@ -24,8 +24,8 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/microsoft/templates.docs.msft",
-      "branch": "onlineEditor",
+      "url": "https://github.com/jsntcy/templates.docs.msft",
+      "branch": "master",
       "branch_mapping": {}
     }
   ],
