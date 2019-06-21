@@ -33,6 +33,11 @@ Edit and debug JavaScript apps on any OS.
 
 ### Azure Extensions
 Use the following free extensions to interface with Azure services directly 
+!
+!
+!
+!
+!
 in Visual Studio Code.
 
 | Tool | Description  |
