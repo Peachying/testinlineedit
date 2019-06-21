@@ -13,7 +13,7 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-The following tools are recommended for developing JavaScript apps on Azure.
+The following **tools** are *recommended* for developing JavaScript apps on Azure.
 
 ## Azure CLI
 Azure CLI is optimized for managing Azure resources from the command line.
