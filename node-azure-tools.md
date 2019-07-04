@@ -16,7 +16,7 @@ ms.author: routlaw
 The following **tools** are *recommended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
 
 ## Azure CLI
-[For testing add content after a HEAD. ]{style="background-color: var(--body-background); color: var(--text);"}Azure CLI is optimized for managing Azure from the command line. [For testing add content \@through the paragraph. ]{style="background-color: var(--body-background); color: var(--text);"}[for managing Azure resources from the command line. for managing Azure resources from the command line. []{style="background-color: var(--body-background); color: var(--text);"}[For testing add content \@End of the paragraph.]{style="color: var(--text); background-color: var(--body-background);"}![CLI](media/node-azure-tools/cli.png)![CLI](media/node-azure-tools/cli.png)]{style="background-color: var(--body-background); color: var(--text);"} 
+For testing add content after a HEAD Azure CLI is optimized for managing Azure from the command line. For testing add content \@through the paragraph. for managing Azure resources from the command line. for managing Azure resources from the command line. ![CLI](media/node-azure-tools/cli.png)![CLI](media/node-azure-tools/cli.png)\]{style=\"background-color: var(\--body-background); color: var(\--text);\"} for managing Azure resources from the command line. 
 for managing Azure resources from the command line.
 
 ![CLI](media/node-azure-tools/cli.png)
@@ -40,6 +40,12 @@ Use the following free extensions to interface with Azure services directly in V
 | [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) <br> [![Azure Functions Tools](media/node-azure-tools/icon-azure-functions.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) | Create, manage, view, debug, and deploy functions|
 | [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) <br> [![App Service Tools](media/node-azure-tools/icon-azure-app-service.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) | Browse sites and the Azure portal, create new sites and deploy to slots |
 | [Cosmos DB ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)  <br> [![Cosmos DB Tools](media/node-azure-tools/icon-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
+
+> [!div class="nextstepaction"]
+> [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+Relevance)
+ls/icon-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
 | [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
 
 > [!div class="nextstepaction"]
