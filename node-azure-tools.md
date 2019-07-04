@@ -13,10 +13,10 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-The following **tools** are *recommended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
+The following **tools** are **recomm@@@\@ended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page.* 
 
 ## Azure CLI
-Add after the Title. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page.For testing add content after a HEAD Azure CLI is optimized for managing Azure from the command line. For testing add content \@through the paragraph. for managing Azure resources from the command line. for managing Azure resources from the command line. ![CLI](media/node-azure-tools/cli.png)![CLI](media/node-azure-tools/cli.png)\]{style=\"background-color: var(\--body-background); color: var(\--text);\"} for managing Azure resources from the command line. for managing Azure resources from the command line. 
+ 
 for managing Azure resources from the command line.
 
 ![CLI](media/node-azure-tools/cli.png)
@@ -46,6 +46,12 @@ Use the following free extensions to interface with Azure services directly in V
 > [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
 Relevance)
 ls/icon-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
+
+> [!div class="nextstepaction"]
+> [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+Relevance)
+on-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
 | [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
 
 > [!div class="nextstepaction"]
