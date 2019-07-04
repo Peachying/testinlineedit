@@ -16,7 +16,7 @@ ms.author: routlaw
 The following **tools** are *recommended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
 
 ## Azure CLI
-Azure CLI is optimized for managing Azure from the command line. for managing Azure resources from the command line. 
+[For testing add content after a HEAD. ]{style="background-color: var(--body-background); color: var(--text);"}Azure CLI is optimized for managing Azure from the command line. [For testing add content \@through the paragraph. ]{style="background-color: var(--body-background); color: var(--text);"}[for managing Azure resources from the command line. for managing Azure resources from the command line. []{style="background-color: var(--body-background); color: var(--text);"}[For testing add content \@End of the paragraph.]{style="color: var(--text); background-color: var(--body-background);"}![CLI](media/node-azure-tools/cli.png)![CLI](media/node-azure-tools/cli.png)]{style="background-color: var(--body-background); color: var(--text);"} 
 for managing Azure resources from the command line.
 
 ![CLI](media/node-azure-tools/cli.png)
