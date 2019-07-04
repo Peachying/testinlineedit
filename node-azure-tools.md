@@ -13,7 +13,7 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-The following **tools** are **recomm@@@\@ended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page.* 
+The following **tools** are *recom@@@@@\@mended* for developing JavaScript apps on Azure. 
 
 ## Azure CLI
  
@@ -55,5 +55,7 @@ on-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuret
 | [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
 
 > [!div class="nextstepaction"]
+> [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+Relevance)
 > [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
 Relevance)
