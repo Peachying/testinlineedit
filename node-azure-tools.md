@@ -13,10 +13,10 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-The following **tools** are *recommended* for developing J111111111111 
+The following **tools** are *recommended* for developing JavaScript. In this page, you can click the \"Inline Edit\" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
 
 ## Azure CLI
-Azure CLI is optimized for managing Azu333333from the command line. 
+Azure CLI is optimized for managing Azure from the command line. for managing Azure resources from the command line. 
 for managing Azure resources from the command line.
 
 ![CLI](media/node-azure-tools/cli.png)
@@ -25,7 +25,7 @@ for managing Azure resources from the command line.
 > [Install the Azure CLI 2.0](https://docs.microsoft.com/cli/azure/install-az-cli2)
 
 ## Visual Studio Code
-Edit and debug JavaScript 222222222222apps on any OS. 
+Edit and debug JavaScript apps on any OS. 
 
 ![Visual Studio Code](media/node-azure-tools/vs-code.png)
 
@@ -44,3 +44,4 @@ Use the following free extensions to interface with Azure services directly in V
 
 > [!div class="nextstepaction"]
 > [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+Relevance)
