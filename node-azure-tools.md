@@ -41,7 +41,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="4AB8:70E2:ACAF58:F33D8C:5D271B56" data-pjax-transient>
+  <meta name="request-id" content="E4B5:1302:362246:4C0A86:5D271BA8" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="4AB8:70E2:ACAF58:F33D8C:5D271B56" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E4B5:1302:362246:4C0A86:5D271BA8" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,11 +70,11 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZjE4YmMwNGQzMTc4NmVlMjM1ZWYyYmFiYWM3NjQ4NDllOTYzNmMzNDA3OGE2OTVmYjFmNGU2YWFkMjk2ZGQzNnx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjIyMC4yNTUuMTA1IiwicmVxdWVzdF9pZCI6IjRBQjg6NzBFMjpBQ0FGNTg6RjMzRDhDOjVEMjcxQjU2IiwidGltZXN0YW1wIjoxNTYyODQzOTkxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="YjQzMjI4MDBmMDQzMTk0NmVjNGRhZTFhNGU0YjdmMmQ0YzQyMDhmODQ0M2JhY2ZiZjJlNDE5OGIzYzZkYjZiMnx7InJlbW90ZV9hZGRyZXNzIjoiMTY3LjIyMC4yNTUuMTA1IiwicmVxdWVzdF9pZCI6IkU0QjU6MTMwMjozNjIyNDY6NEMwQTg2OjVEMjcxQkE4IiwidGltZXN0YW1wIjoxNTYyODQ0MDcyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PULL_PANDA_HOMEPAGE,MARKETPLACE_PENDING_INSTALLATIONS,DISPLAY_COMMENTER_FULL_NAME">
 
-  <meta name="html-safe-nonce" content="000caf023fc0f40034def85a0b015bf851c8947d">
+  <meta name="html-safe-nonce" content="421be0eccae32b5e631348e86fda972734ae5a23">
 
   <meta http-equiv="x-pjax-version" content="41b9ff63b8f4ee38c8cca1ecdadf550e">
   
@@ -138,7 +138,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ff9ac8c964e502b737bf3c22464a5cfc1a1830a03a27679879a1284c26695ba2"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="35d5b6f96fc45685a912ec084ea6a58a7c81aa0f90d1243467ed397fcbcd739a"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -279,7 +279,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=z98c4G/OkocsM4fiUUH/wzyzn/n8XYkK+ga2BDSST6jqXPdYlCLLQItZXlYzlocD/cwfzddmZlAJdDd2Vx2c6w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=joonWNplJ4+5DekLxvuaG4pJ/N6FZgG1WpFnVvfgcfEAO7KMJqRKNelSz4/nx6kLNIo5WePtgiK9dTAKIzX6TA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -406,13 +406,13 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
 
         <a href="/login?return_to=%2FPeachying%2Ftestinlineedit%2Fblob%2Fmaster%2Fnode-azure-tools.md"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9766beddbfc20e42485b5e60b52f0d9d04fabddd153569bc614ae7f82ff16725"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="367e41bfce7f3dd949c26bccdcacbfda7098bc22defe58a124d4739cce14ee04"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9766beddbfc20e42485b5e60b52f0d9d04fabddd153569bc614ae7f82ff16725"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="367e41bfce7f3dd949c26bccdcacbfda7098bc22defe58a124d4739cce14ee04"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -457,7 +457,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="298e65502320269804ce39ef02cfce5ed58f6aa26abc5d0a99ebf32ad4456eea" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b815ed28ed33808f846b0c643e6fcd7e553bae29a12e368abbf87ed101ecd3a4" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/Peachying/testinlineedit/watchers"
@@ -468,7 +468,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:192665222,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e1ca8e3caeeaf4bdd78deac42220e215e61038498fab4e5bb3e7e51008a7b093" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:192665222,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="779d091a0ff6b01ffbe34b5dee045813eeadffab857d91c529d637357ff7c0de" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -480,7 +480,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:192665222,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6eef0ad7dc114ff62b0df909859e162df3689675e209633834decb84d7265c62" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:192665222,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0dca1228099ddda53cc9552cdadd5a89bf3d648c57686e233004881dc602115a" href="/login?return_to=%2FPeachying%2Ftestinlineedit">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -610,13 +610,13 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="uQvft6WC060z7DyNOGZ1JE+h66AEXdsahix9UevX0+2l57vYfDiSm8W7RwzZAVNTEDkP2wtHuYEzzinu4e1BtA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="EjQdKcsXbXw3Hz5ljinyG5sbo2CVDbWKMETOjaqmgkr4LU29AY/zSp0vnY83MF8ahaliK4JHO+4XWiTL37FoEg==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;4AB8:70E2:ACAF58:F33D8C:5D271B56&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fe6d69cb6a2ed0a91e8be139bed5ad6e6dc93322856249b774447d6f82ee3163" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;E4B5:1302:362246:4C0A86:5D271BA8&quot;,&quot;originating_url&quot;:&quot;https://github.com/Peachying/testinlineedit/blob/master/node-azure-tools.md&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b8833982c2eeb4e5283fef9495c624c7199dcd64907b6b6b5a8203d63b8e3d0b" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show">Sign up</a>
         </div>
       </div>
     </div>
@@ -893,7 +893,7 @@ Relevance)</p>
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.20741s from unicorn-5ccb946d99-xjwd7">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.33248s from unicorn-58f79c4c7c-2jvhj">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
