@@ -88,9 +88,23 @@ Relevance)
 
 
 
-.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+vance)
 Relevance)
-> [Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get more Azure extensions in the Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=azure&target=VSCode&category=All%20categories&sortBy=Relevance)
 Relevance)
 =Relevance)
 Relevance)
@@ -107,6 +121,22 @@ Relevance)
 
 =Relevance)
 Relevance)
+
+
+
+
+
+
+
+
+
+
+
+
+
+vance)
+Relevance)
+
 
 
 
