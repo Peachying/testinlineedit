@@ -18,7 +18,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
 
 ## Azure CLI
  
-for managing Azure resources from the command line.
+ 
 
 ![CLI](media/node-azure-tools/cli.png)
  
@@ -62,6 +62,20 @@ Relevance)
 Relevance)
 =Relevance)
 Relevance)
+
+
+
+
+
+
+
+
+
+
+
+=Relevance)
+Relevance)
+
 
 
 
