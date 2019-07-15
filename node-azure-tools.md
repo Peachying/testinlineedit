@@ -13,7 +13,7 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-
+The following **tools** are *recomended* for developing JavaScript apps on Azure.In the paragraph add some words after blank space.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
 
 
 ## Azure CLI
@@ -89,6 +89,7 @@ Relevance)
 
 
 vance)
+
 Relevance)
 
 
@@ -120,22 +121,9 @@ Relevance)
 
 
 =Relevance)
-Relevance)
 
 
 
-
-
-
-
-
-
-
-
-
-
-vance)
-Relevance)
 
 
 
