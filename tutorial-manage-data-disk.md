@@ -13,7 +13,7 @@ ms.service: virtual-machines-windows
 ms.devlang: na
 ms.topic: tutorial
 ms.tgt_pltfrm: vm-windows
-ms.workload: infrastructure
+The following **tools** are *recomended* for developing JavaScript apps on Azure.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. Test the service!!!2019/07/11 
 ms.date: 11/29/2018
 ms.author: cynthn
 ms.custom: mvc
@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. You learn about: 
+Azure virtual machines use disks to store the VMs 1111operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. You learn about: 
 
 > [!div class="checklist"]
 > * OS disks and temporary disks
@@ -177,6 +177,5 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 > [!div class="nextstepaction"]
 > [Automate VM configuration](./tutorial-automate-vm-deployment.md)
-
 
 
