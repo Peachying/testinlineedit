@@ -13,7 +13,7 @@ ms.service: virtual-machines-windows
 ms.devlang: na
 ms.topic: tutorial
 ms.tgt_pltfrm: vm-windows
-The following \*\*tools\*\* are \*recomended\* for developing JavaScript apps on Azure.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. Test the service!!!2019/07/11 
+The following \*\*tools\*\* are \*recomended\* for developing JavaScript apps on Azure.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. Test the service2019/07/11 
 ms.date: 11/29/2018
 ms.author: cynthn
 ms.custom: mvc
