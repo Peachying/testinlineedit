@@ -13,7 +13,7 @@ ms.service: virtual-machines-windows
 ms.devlang: na
 ms.topic: tutorial
 ms.tgt_pltfrm: vm-windows
-The following \*\*tools\*\* are \*recomended\* for developing JavaScript apps on Azure.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. Test 2019/07/16 
+ms.workload: infrastructure
 ms.date: 11/29/2018
 ms.author: cynthn
 ms.custom: mvc
@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. You learn about:
+Azure <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; overflow-wrap: break-word; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"></span>virtu111111s. You learn about: 
 
 > [!div class="checklist"]
 > * OS disks and temporary disks
