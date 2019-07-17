@@ -13,7 +13,7 @@ ms.author: routlaw
 ---
 
 # Azure tools for JavaScript developers
-The following **tools** are *recomended* for developing JavaScript apps on Azure.In the paragraph add some words after blank space.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page. 
+The following **tools** are *recomended* for developing JavaScript apps on Azure.In the paragraph add some words after blank space.In this page, you can click the "Inline Edit" button to edit your content and submit it after that. We will handle your PR in our repo. If your request is valid, you can receive a notification from this page.Add some content. 
 
 
 ## Azure CLI
@@ -42,6 +42,7 @@ Use the following free extensions to interface with Azure services directly in V
 | [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) <br> [![App Service Tools](media/node-azure-tools/icon-azure-app-service.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) | Browse sites and the Azure portal, create new sites and deploy to slots |
 | [Cosmos DB ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)  <br> [![Cosmos DB Tools](media/node-azure-tools/icon-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
 | [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
+
 
 
 
