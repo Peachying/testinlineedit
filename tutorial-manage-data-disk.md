@@ -34,6 +34,7 @@ Azure virtual machines use disks to store the VMs operating system, applications
 > * Attaching and preparing data disks
 
 [!include[testinclude.md](testinclude.md)]
+[!include[testinclude.md](./reference/testinclude_folder.md)]
 
 ## Launch Azure Cloud Shell
 
