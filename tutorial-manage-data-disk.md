@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure <span style="display: inline !important; float: none; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: Segoe UI,SegoeUI,Segoe WP,Helvetica Neue,Helvetica,Tahoma,Arial,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; overflow-wrap: break-word; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"></span>virtu111111s. You learn about: 
+Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload.  
 
 > [!div class="checklist"]
 > * OS disks and temporary disks
