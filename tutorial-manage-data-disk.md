@@ -33,6 +33,8 @@ Azure virtual machines use disks to store the VMs operating system, applications
 > * Disk performance
 > * Attaching and preparing data disks
 
+[!include[<testinclude.md>](<./testinclude.md>)]
+
 ## Launch Azure Cloud Shell
 
 The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. It has common Azure tools preinstalled and configured to use with your account. 
