@@ -33,7 +33,7 @@ Azure virtual machines use disks to store the VMs11111 operating system, applica
 > * Disk performance
 > * Attaching and preparing data disks
 
-[!include[testinclude.md]("../testinlineedit/testinclude.md")]
+[!include[testinclude.md](".\testinclude.md")]
 
 ## Launch Azure Cloud Shell
 
