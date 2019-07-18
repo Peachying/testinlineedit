@@ -34,10 +34,11 @@ Azure virtual machines use disks to store the VMs operating system, applications
 > * Attaching and preparing data disks
 
 [!include[testinclude.md](testinclude.md)]
+[!include[testinclude.md](./reference/testinclude_folder.md)]
 
 ## Launch Azure Cloud Shell
 
-The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. It has common Azure tools preinstalled and configured to use with your account. 
+The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. ADD SOME CONTENT.Test markdown include inline. It has common Azure tools preinstalled and configured to use with your account. 
 
 To open the Cloud Shell, just select **Try it** from the upper right corner of a code block. You can also launch Cloud Shell in a separate browser tab by going to [https://shell.azure.com/powershell](https://shell.azure.com/powershell). Select **Copy** to copy the blocks of code, paste it into the Cloud Shell, and press enter to run it.
 
@@ -179,6 +180,4 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 > [!div class="nextstepaction"]
 > [Automate VM configuration](./tutorial-automate-vm-deployment.md)
-
-oyment.md)
 
