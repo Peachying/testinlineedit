@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure virtual machines use disks to store the VMs1111add some content111  
+Azure virtual machines use disks to store the VMs1111add some content111 
 
 > [!div class="checklist"]
 > * OS disks and temporary disks
@@ -186,7 +186,7 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 
 
-ng and preparing data disks
+hing and preparing data disks
 
 Advance to the next tutorial to learn about automating VM configuration.
 
