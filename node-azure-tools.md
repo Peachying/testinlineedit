@@ -17,7 +17,7 @@ The following **tools** are *recomended* for developing JavaScript apps on Azure
 
 
 ## Azure CLI
-Azure CLI is optimized for managing Azure from the command line. for managing Azure resources from the command line. 
+Azure CLI is optimized for managing Azure from the command line. for managing Azure resources from the command line. for managing Azure resources from the command line.TEST 
 for managing Azure resources from the command line.
 
 ![CLI](media/node-azure-tools/cli.png)
@@ -42,6 +42,7 @@ Use the following free extensions to interface with Azure services directly in V
 | [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) <br> [![App Service Tools](media/node-azure-tools/icon-azure-app-service.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) | Browse sites and the Azure portal, create new sites and deploy to slots |
 | [Cosmos DB ](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)  <br> [![Cosmos DB Tools](media/node-azure-tools/icon-cosmos-db.png)](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)| Create, browse, and update globally distributed, multi-model databases in Azure |
 | [Docker](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)   <br> [![Cosmos DB Tools](media/node-azure-tools/icon-docker.png)](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)| Manage Docker containers and images, Docker Hub, and Azure container registry
+
 
 
 
