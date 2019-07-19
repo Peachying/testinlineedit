@@ -184,9 +184,4 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 
 
--deployment.md)
-
-
-
-
 
