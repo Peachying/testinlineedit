@@ -1,5 +1,5 @@
- 
- 
+---
+title: Tutorial - Manage Azure disks with Azure PowerShell | Microsoft Docs
 description: In this tutorial, you learn how to use Azure PowerShell to create and manage Azure disks for virtual machines
 services: virtual-machines-windows
 documentationcenter: virtual-machines
@@ -24,7 +24,7 @@ ms.subservice: disks
 
 # Tutorial - Manage Azure disks with Azure PowerShell
 
-Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. ADD LOCALLY!GO ON ADD You learn about: 
+Azure virtual machines use disks to store the VMs operating system, applications, and data. When creating a VM, it's important to choose a disk size and configuration appropriate to the expected workload. This tutorial covers deploying and managing VM disks. ADD LOCALLY!GO ON ADDONLINE You learn about: 
 
 > [!div class="checklist"]
 > * OS disks and temporary disks
@@ -38,7 +38,7 @@ Azure virtual machines use disks to store the VMs operating system, applications
 
 ## Launch Azure Cloud Shell
 
-<span style="background-color: var(--body-background); color: var(--text);">alled and configured to use with your account.</span> 
+The Azure Cloud Shell is a free interactive shell that you can use to run the steps in this article. [!include[testinclude_inline.md](testinclude_inline.md)] It has common Azure tools preinstalled and configured to use with your account. 
 
 To open the Cloud Shell, just select **Try it** from the upper right corner of a code block. You can also launch Cloud Shell in a separate browser tab by going to [https://shell.azure.com/powershell](https://shell.azure.com/powershell). Select **Copy** to copy the blocks of code, paste it into the Cloud Shell, and press enter to run it.
 
@@ -180,10 +180,3 @@ Advance to the next tutorial to learn about automating VM configuration.
 
 > [!div class="nextstepaction"]
 > [Automate VM configuration](./tutorial-automate-vm-deployment.md)
-n"]
-> [Automate VM configuration](./tutorial-automate-vm-deployment.md)
-
-ial-automate-vm-deployment.md)
-n"]
-> [Automate VM configuration](./tutorial-automate-vm-deployment.md)
-
