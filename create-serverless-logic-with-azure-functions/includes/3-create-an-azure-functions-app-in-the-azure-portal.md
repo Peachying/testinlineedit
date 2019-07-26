@@ -1,6 +1,6 @@
 You are now ready to start implementing the temperature service. In the previous unit, you determined that a serverless solution would best fit your needs. Let's start by creating a function app to hold our Azure Function.
 
-[!include[](../../../includes/azure-sandbox-activate.md)]
+[!include[](azure-sandbox-activate.md)]
 
 ## What is a function app?
 
@@ -38,7 +38,7 @@ Let's create a function app in the Azure portal.
 
 1. Select the geographical location closest to you from the list below. In a production system, you would want to select a location near your customers or consumers of the function.
 
-    [!include[](../../../includes/azure-sandbox-regions-first-mention-note-friendly.md)]
+    [!include[](azure-sandbox-regions-first-mention-note-friendly.md)]
 
 1. For **Runtime Stack**, select **Node.js** from the dropdown, which is the language in which we implement the function examples in this exercise.
 
