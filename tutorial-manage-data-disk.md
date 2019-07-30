@@ -180,14 +180,15 @@ In this tutorial, you learned about VM disks topics such as:
 Advance to the next tutorial to learn about automating VM configuration.
 
 > [!div class="nextstepaction"]
-> [Automate VM configuration](./tutorial-automate-vm-deployment.md)
+[Automate VM configuration](tutorial-automate-vm-deployment){.button .is-primary} ~~nt.md)~~ 
 nt.md)
 
 
 
 
 
-d)
+ 
+
 
 
 
